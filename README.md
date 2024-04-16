@@ -21,6 +21,10 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shantanuwebdev&show_icons=true&locale=en" alt="shantanuwebdev" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil2072&" alt="swapnil2072" /></p>
+<a href="https://github.com/swapnil2072">
+    <img title="GitHub Stats" alt="swapnil's streak" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshR144&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  </a>
 
 
 <!--
